@@ -1,5 +1,5 @@
 # OSSU
-Open source society exercises and projects. Added as i work through them.
+Open source society exercises and projects. Added as i work through them.  
 Skipping a course means i have significante experience in the subject.
 
 | Course | Status | Project link |
