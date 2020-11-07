@@ -2,8 +2,6 @@
 Open source society exercises and projects. Added as i work through them.
 Skipping a course means i have significante experience in the subject.
 
-Introduction to Computer Science and Programming using Python 
-
 | Course | Status | Project link |
 | --------------- | --------------- | --------------- |
 | Python for Everybody | Skipped | N/A |
